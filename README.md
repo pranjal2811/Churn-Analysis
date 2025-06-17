@@ -1,2 +1,2 @@
-Introduction
+****Introduction
 Welcome to the Churn Analysis Project! This project demonstrates a comprehensive approach to understanding and predicting customer churn, a critical challenge for businesses aiming to retain their customer base and maximize long-term revenue. By leveraging data analysis and machine learning, this initiative identifies key drivers of customer attrition and builds a predictive model to proactively identify at-risk customers, enabling targeted retention strategies.
